@@ -1,0 +1,8 @@
+{
+  "name": "cloud-docker-demo",
+  "version": "1.0.0",
+  "description": "Small Node.js web app for Docker multi-stage containerization",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2"}
+}

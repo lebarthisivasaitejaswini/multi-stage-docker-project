@@ -1,0 +1,12 @@
+CONTAINER BUILD & TEST LOG
+
+Run and paste the real output of:
+1. docker compose build
+2. docker compose up -d
+3. docker compose ps
+4. curl http://localhost:3000/health
+5. docker images
+6. docker compose logs web
+7. docker compose logs redis
+
+Record the final application image size and health status here.
